@@ -15,7 +15,7 @@ public class TestBase {
     @BeforeAll
     static void beforeAll() {
         Configuration.baseUrl = "https://demoqa.com";
-        Configuration.browser = System.getProperty("browser", "chrome");
+        Configuration.browser = System.getProperty("browser", "opera");
         Configuration.browserSize = System.getProperty("browserSize", "1980x1020");
         Configuration.browserVersion = System.getProperty("browserVersion", "100.0");
         Configuration.remote = System.getProperty("remote", "https://user1:1234@selenoid.autotests.cloud/wd/hub");
