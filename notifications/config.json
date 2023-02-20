@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "some project",
+    "environment": "some enviroment",
+    "comment": "any comment here",
+    "reportLink": "https://jenkins.autotests.cloud",
+    "language": "ru",
+    "allureFolder": "build/reports/allure-report/allureReport/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6241045034:AAFI9nzSnfPc6xq4bXYbhBTQ_fODeJGQYvY",
+    "chat": "-1001779080901",
+    "replyTo": ""
+  }
+}
