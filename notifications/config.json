@@ -3,7 +3,7 @@
     "logo": "",
     "project": "some project",
     "environment": "some enviroment",
-    "comment": "any comment here, @frol84",
+    "comment": "any comment here",
     "reportLink": "https://jenkins.autotests.cloud",
     "language": "ru",
     "allureFolder": "build/reports/allure-report/allureReport/",
